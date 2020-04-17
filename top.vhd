@@ -23,7 +23,7 @@ architecture bh of top is
   component andgate is
   port(
     andin: in std_logic_vector (1 downto 0);
-	 andout: out std_logic
+    andout: out std_logic
   );
   end component;
   
