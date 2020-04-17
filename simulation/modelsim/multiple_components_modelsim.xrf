@@ -4,6 +4,7 @@ source_file = 1, D:/Documents/multiple_components/notgate.vhd
 source_file = 1, D:/Documents/multiple_components/andgate.vhd
 source_file = 1, D:/Documents/multiple_components/norgate.vhd
 source_file = 1, D:/Documents/multiple_components/simulation/modelsim/top.vht
+source_file = 1, D:/Documents/multiple_components/tb_andgate.vhd
 source_file = 1, d:/program_files/intel/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, d:/program_files/intel/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, d:/program_files/intel/quartus/libraries/vhdl/ieee/timing_b.vhd
