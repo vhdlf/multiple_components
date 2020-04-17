@@ -2,11 +2,12 @@
 db/
 incremental_db/
 output_files/
-simulation/
+rtl_work/
 
 # Backup files
 *.*.bak
 *.qws
+*.wlf
 
 # Prerequisites
 *.d
